@@ -33,12 +33,12 @@
     <br>
     <br>
     <h3><samp>⚙️ Framework</samp><br /></h3>
-    <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://github.com/user-attachments/assets/488b8f04-cb29-4191-89e5-e3483b5f07e4" target="_blank" width="60"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Flask.png"><img src="https://github.com/user-attachments/assets/488b8f04-cb29-4191-89e5-e3483b5f07e4" target="_blank" width="60"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     Flask
     <h3><samp>🎒 IDEs e ferramentas</samp><br /></h3>
     <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" target="_blank" width="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jetbrains.com/pycharm/"><img src="https://intellij-support.jetbrains.com/hc/en-us/community/posts/5909943756818-PyCharm-Logo-Update" target="_blank" width="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="PyCharm.png"><img src="https://intellij-support.jetbrains.com/hc/en-us/community/posts/5909943756818-PyCharm-Logo-Update" target="_blank" width="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://docs.github.com/pt/get-started/start-your-journey/about-github-and-git"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" target="_blank" width="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     <br>
